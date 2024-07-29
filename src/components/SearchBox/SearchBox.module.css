@@ -1,0 +1,12 @@
+.searchBox {
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  width: 100%;
+  margin-bottom: 16px;
+  box-sizing: border-box;
+}
+
+.searchBox::placeholder {
+  color: #888;
+}
